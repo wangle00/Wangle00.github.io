@@ -6,4 +6,4 @@
 :HL["/_next/static/chunks/3k0_b6lgg15gn.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"contact","h":64,"c":"$Q2"}]]
-0:{"b":"j6RmXaN8oFfvgdaQVn4dS","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"vmKPkVaQGJbSwzfU9i0qo","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
